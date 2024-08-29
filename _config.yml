@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  social: Around the Web
+  # social: Around the Web
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
