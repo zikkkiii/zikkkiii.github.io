@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 2
-img: cake.png
-alt: image-alt
-project-date: May 2024
-category: Data Mining
-description: Analyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
----
