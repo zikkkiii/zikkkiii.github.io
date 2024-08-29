@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-05
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-description: hello world
+project-date: May 2024
+description: Analyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
 ---
