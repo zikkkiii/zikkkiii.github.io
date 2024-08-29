@@ -5,6 +5,5 @@ date: 2024-05
 img: cabin.png
 alt: image-alt
 project-date: May 2024
-name: Analyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
 description: Axxxxxnalyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
 ---
