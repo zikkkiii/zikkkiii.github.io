@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2024-05
+date: 2024-09
 img: cabin.png
 alt: image-alt
-project-date: May 2024
-description: Axxxxxnalyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
+project-date: Sept 2024
+description: AI Text to Video Generator
 ---
