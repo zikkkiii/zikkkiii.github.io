@@ -4,7 +4,7 @@ email: ziqi.lin@sjsu.edu
 url: https://zikkkiii.github.io/
 # description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 # keywords: "your keywords, separated by commas"
-skills: "DS - UXD"
+# skills: "DS - UXD"
 meta_author: ZIKI
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
   secondary-dark: f8c4da #233140 #A2122F
 
 # Footer settings
-footer:
+# footer:
   # social: Around the Web
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
