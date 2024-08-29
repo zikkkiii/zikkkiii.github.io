@@ -26,7 +26,7 @@ meta_author: ZIKI
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: f8c4da #FFC0CB #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "195,220,240" #"128,179,255"
   secondary: c3dcf0 #89CFF0 #FD6E8A
   secondary-dark: 233140 #A2122F
 
