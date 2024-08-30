@@ -6,5 +6,5 @@ alt: image-alt
 project-date: Sept 2024
 category: Computer Vision and LLM
 description: AI Text to Video Generator
-link: https://open.spotify.com/
+link: https://drive.google.com/file/d/1a3ySVNk6ghxJiYYs0thglp5awA3_M5h2/view?usp=sharing
 ---
