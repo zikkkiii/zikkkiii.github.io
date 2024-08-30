@@ -7,4 +7,5 @@ alt: image-alt
 project-date: Nov 2023
 category: Data Visualization
 description: Billboard Hot 100 Dashboard
+link: https://github.com/zikkkiii/billboard/blob/main/BILLBOARD%20HOT%20100%20DASHBOARD.pdf
 ---
