@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-16
-img: circus.png
+img: game.png
 alt: image-alt
 project-date: Dec 2023
 category: Machine Learning Tech
