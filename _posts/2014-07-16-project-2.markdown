@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Dec 2023
 category: Machine Learning Tech
 description: Music Recommendation Using Spotify Dataset
-link: https://github.com/zikkkiii/Music-Recommendation/blob/main/Music%20Recommendation.pdf
+link: [https://github.com/zikkkiii/Music-Recommendation/blob/main/Music%20Recommendation.pdf](https://drive.google.com/file/d/1gxasaJ7F5ofHGQ7Fz-c1gDn0xuGQuKdW/view?usp=sharing)
 ---
