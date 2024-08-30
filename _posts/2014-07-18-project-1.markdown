@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: cabin.png
+img: circus.png
 alt: image-alt
 project-date: May 2024
 category: Data Mining
