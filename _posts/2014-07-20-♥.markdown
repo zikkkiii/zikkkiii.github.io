@@ -2,7 +2,7 @@
 layout: default
 modal-id: ♥
 date: 2014-07-13
-img: dog.png
+img: cabin.png
 alt: image-alt
 description: ♡
 link: https://soundcloud.com/zikkkiii
