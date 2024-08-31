@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: ღ
+modal-id: ᰔᩚ
 date: 2014-07-16
 img: game.png
 alt: image-alt
-description: ღ
+description: ᰔᩚ
 link: https://drive.google.com/file/d/1Unewa0a-VGqQAXWC7d9BJKq2PLSV_gFV/view?usp=sharing
 ---
