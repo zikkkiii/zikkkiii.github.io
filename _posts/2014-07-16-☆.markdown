@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: ☆
+date: 2014-07-16
+img: game.png
+alt: image-alt
+description: ☆
+link: 
+---
