@@ -15,16 +15,7 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-
-            <!-- Display multiple images -->
-            {% if post.images %}
-              <div class="image-gallery">
-                {% for image in post.images %}
-                  <img src="img/portfolio/{{ image.src }}" class="img-responsive img-centered" alt="{{ image.alt }}">
-                {% endfor %}
-              </div>
-            {% endif %}
-
+            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>
               <a href="{{ post.link }}" target="_blank">{{ post.description }}</a>
