@@ -21,21 +21,3 @@ Here are the images from the PDF document:
 
 You can also access the full document here: [Google Drive PDF](https://drive.google.com/file/d/1xVlRQ7Ua_yGilB_wNloBGNHqH1Y22t83/view?usp=sharing)
 
-<div style="text-align: center;">
-  <h3>Page 1</h3>
-  <p>This is the first page of the analysis:</p>
-  <img src="pdf_images/output_page_1.png" alt="Page 1" class="img-responsive">
-</div>
-
-<div style="text-align: center;">
-  <h3>Page 2</h3>
-  <p>This is the second page of the analysis:</p>
-  <img src="pdf_images/output_page_2.png" alt="Page 2" class="img-responsive">
-</div>
-
-<div style="text-align: center;">
-  <h3>Page 3</h3>
-  <p>This is the third page of the analysis:</p>
-  <img src="pdf_images/output_page_3.png" alt="Page 3" class="img-responsive">
-</div>
-
