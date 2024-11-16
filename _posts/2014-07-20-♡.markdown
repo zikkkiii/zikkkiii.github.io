@@ -7,3 +7,16 @@ alt: image-alt
 description: Analyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
 link: https://drive.google.com/file/d/1xVlRQ7Ua_yGilB_wNloBGNHqH1Y22t83/view?usp=sharing
 ---
+
+# Analyzing Data Science Trends
+
+This page presents the analysis of data science trends through network analysis and NLP-based social media text mining.
+
+## PDF Images
+
+Here are the images from the PDF document:
+
+![Page 1](https://github.com/zikkkiii/zikkkiii.github.io/raw/main/_posts/images/output_page_1.png)
+![Page 2](https://github.com/zikkkiii/zikkkiii.github.io/raw/main/_posts/images/output_page_2.png)
+
+You can also access the full document here: [Google Drive PDF](https://drive.google.com/file/d/1xVlRQ7Ua_yGilB_wNloBGNHqH1Y22t83/view?usp=sharing)
