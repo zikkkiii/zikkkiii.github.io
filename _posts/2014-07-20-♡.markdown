@@ -4,6 +4,6 @@ modal-id: ♡
 date: 2014-07-20
 img: cabin.png
 alt: image-alt
-description: ♡
+description: Analyzing Data Science Trends through Network Analysis and NLP-Based Social Media Text Mining
 link: https://drive.google.com/file/d/1xVlRQ7Ua_yGilB_wNloBGNHqH1Y22t83/view?usp=sharing
 ---
