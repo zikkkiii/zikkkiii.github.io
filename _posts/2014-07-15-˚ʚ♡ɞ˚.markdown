@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: ˚ʚ♡ɞ˚
-date: 2014-07-16
-img: cat.png
+date: 2014-07-15
+img: cat.jpg
 alt: image-alt
 description: UX Intern
 link: https://drive.google.com/drive/folders/1N2epHu4ujvlFxhlrPfRuXH-H3qlH93ne?usp=sharing
