@@ -4,6 +4,6 @@ modal-id: ᰔᩚ
 date: 2014-07-16
 img: game.png
 alt: image-alt
-description: ᰔᩚ
+description: Music Recommendation using Spotify Dataset
 link: https://drive.google.com/file/d/1yuHQcjts7PhUn9N7yUYwG6fGE6wyf-Ye/view?usp=sharing
 ---
