@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: ˚ʚ♡ɞ˚
+modal-id: ꨄ
 date: 2014-07-15
 img: cat.jpg
 alt: image-alt
