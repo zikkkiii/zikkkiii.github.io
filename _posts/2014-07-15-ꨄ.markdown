@@ -2,7 +2,7 @@
 layout: default
 modal-id: ꨄ
 date: 2014-07-15
-img: cat.jpg
+img: ux.PNG
 alt: image-alt
 description: UX Intern
 link: https://drive.google.com/drive/folders/1N2epHu4ujvlFxhlrPfRuXH-H3qlH93ne?usp=sharing
