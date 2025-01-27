@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: ♥
-img: circus.png
+img: music.PNG
 alt: image-alt
 description: Music Recommendation using Spotify Dataset
 link: https://drive.google.com/file/d/1gxasaJ7F5ofHGQ7Fz-c1gDn0xuGQuKdW/view?usp=sharing
