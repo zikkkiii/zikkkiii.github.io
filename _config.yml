@@ -36,8 +36,9 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: mail
+  - title: email
     url: mailto:ziqi.lin@sjsu.edu
+    icon: fas fa-envelope
   - title: linkedin
     url: https://www.linkedin.com/in/ziqilin2021/
   - title: instagram
